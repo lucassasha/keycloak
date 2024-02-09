@@ -21,7 +21,7 @@
             See https://github.com/quarkusio/quarkus/blob/<versionTag>/bom/application/pom.xml
             for reference
         -->
-        <kubernetes-client.version>6.5.1</kubernetes-client.version>
+        <kubernetes-client.version>6.6.0</kubernetes-client.version>
         <wildfly.common.version>1.5.4.Final-format-001</wildfly.common.version>
 
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
