@@ -32,7 +32,7 @@
 
     <properties>
         <jakarta.servlet.version>6.0.0</jakarta.servlet.version>
-        <wildfly-elytron.version>2.0.0.Final</wildfly-elytron.version>
+        <wildfly-elytron.version>2.2.6.Final</wildfly-elytron.version>
     </properties>
 
     <dependencies>
